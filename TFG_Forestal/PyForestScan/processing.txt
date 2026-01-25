@@ -1,0 +1,11 @@
+install conda to manage installing packages and python libraries
+setup the conda environment and install gdal and pdal packages, 
+install pyforestscan in the same conda environment via pip install
+--https://pyforestscan.sefa.ai/installation/
+
+While running python files of the project, select the pyforestscan_env interpreter so that python works with the installed libraries
+ 
+--https://pyforestscan.sefa.ai/usage/getting-started-import-and-preprocess/
+
+
+--https://pyforestscan.sefa.ai/usage/forest-structure/intro/

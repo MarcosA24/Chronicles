@@ -1,0 +1,24 @@
+To Create and Use a virtual Environment in python, without the need of installing python packages in the general computer. It will only work in the virtual Environment
+
+DOCUMENTATION:
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
+
+Steps Guide:
+
+in the folder you want to set-up a virtual environment, run in terminal,
+py -3 -m venv .venv
+
+to activate the virtual environment,
+.venv\Scripts\activate
+
+to confirm if the virtual env is the one active or not,
+where python
+
+to install pacakges in the environment
+pip install < >
+
+execute in the folder where the file requirements is located
+pip install -r requirements.txt
+
+to deactivate the environment, 
+deactivate

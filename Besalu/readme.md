@@ -5,7 +5,7 @@ The 3D Model was done with photogrammetry, using a digital cammera and the softw
 
 Here there are some images of the final product. 
 
-![[Besalu3.png]]
-![[Besalu1.png]]
-![[Besalu2.png]]
-![[Besalu4.png]]
+<img src="images/Besalu3.png" alt="Besalu3" width="650" />
+<img src="images/Besalu1.png" alt="Besalu1" width="650" />
+<img src="images/Besalu2.png" alt="Besalu2" width="650" />
+<img src="images/Besalu4.png" alt="Besalu4" width="650" />
