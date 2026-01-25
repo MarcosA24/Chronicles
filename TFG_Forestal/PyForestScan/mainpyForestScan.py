@@ -1,5 +1,5 @@
 import sys,os
-#to import pyforestscan, first there must be installed gdal and pdal. to do so it was done via a 
+#to import pyforestscan, first there must be installed gdal and pdal
 import pyforestscan
 import numpy as np
 from pyforestscan.handlers import read_lidar, write_las, create_geotiff
@@ -38,11 +38,8 @@ def exportData(map,route,lidar=False,crs='EPSG:32631'):
 if __name__=='__main__':
     #import datasets
     #[0]:original .las cloud, [1]:vegetation filtered .las, [2]:ground classification -las
-    lidar_paths=[R'E:\Universidad Alex\TFG\Campo\instop_cloud0-las_2025-03-04_0909\cloud0.las',
-              R'E:\Universidad Alex\TFG\process\aéreo\cloud0.terreno.las',R'E:\ArcGIS\JorbaForest\lidar-territorial-v3r0-full1km329648-2021-2023.laz']
-    photo_paths=[R'E:\Universidad Alex\TFG\process\fotog\forest_MMA.las']
-    tls_paths= [R'E:\Universidad Alex\TFG\process\blk\blk_py.las',
-                R'E:\Universidad Alex\TFG\process\blk\blk_groundpy.las']
+    lidar_paths=[R'cloud0.las',
+              R'E:cloud0.terrain.las',R'lidar-territorial-v3r0-full1km329648-2021-2023.laz']
     
     lidar_airborn=read_lidar(lidar_paths[2],'EPSG:25831',hag=True)[0]  #airborn_lidar origin
     #lidar_airborn=read_lidar(photo_paths[0],'EPSG:32631',hag=True)[0] #photogrammetry origin

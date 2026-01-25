@@ -1,0 +1,6 @@
+PyQT6
+matplotlib
+numpy
+opencv-python
+pillow
+pyperclip

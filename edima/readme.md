@@ -10,3 +10,17 @@ If you run the file, the program will automatically open and then you can alread
 <img src="GUI_Imagery.png" alt="Interface" width="650" />
 
 The other python files are fragments of the main code, specialized in a concrete edition, for example, the adaptation of brightness and contrast. These secondary files are code snippets that serve as a test before applying the complete version into the interface. 
+
+### Libraries and resources Installation
+General libraries used:
+  - os, sys, pyperclip
+  - PyQt6 &emsp; &emsp; &emsp; &emsp; *pip install pyQt6*
+  - matplotlib.pyplot
+  - numpy
+Image edition libraries used: 
+  - opencv &emsp; &emsp; &emsp; *pip install opencv-python*
+  - PIL &emsp; &emsp; &emsp; &emsp;  *pip install PIL*
+
+**for pip installations, in case pip install <module> doesn't work, do >. py -3 -m pip install <module>**
+**for conda environment installations, in the terminal run >. conda install <module>**
+**there's an option to install all the libraries with the requirements.txt <pip install -r requirements.txt>**
