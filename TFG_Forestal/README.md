@@ -2,6 +2,7 @@
 This folder contains the code used in my bachelor's thesis:
 
 **ESTUDIO DE DIFERENTES TÉCNICAS GEOMÁTICAS APLICADAS EN INVENTARIO FORESTAL**
+
 *Study of different survey techniques applied to forest inventories*
 
 The thesis is published at the University's repository: https://hdl.handle.net/2117/444578
