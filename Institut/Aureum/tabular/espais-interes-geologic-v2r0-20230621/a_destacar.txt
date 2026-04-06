@@ -1,0 +1,13 @@
+- Zona d'enllaç. <> Zona d’enllaç
+hi ha diferències en el caràcter de l'apòstrof. Anar en compte amb la codificació d'aquest caràcer tant en ArcGis com en Excel.
+
+- Neogen
+No hi ha cap problema, és un espai en blanc a causa del separador. no res
+
+- Vegetació pot dificultar l'accès
+apòstrof
+
+- Vegetació pot dificultar l'observació i l'accès
+apòstrof
+
+

@@ -1,0 +1,149 @@
+{CAPES: [atributs] -------------------- {'espais-interes-geologic-v2r0-elements-poligons-20230621.shp': ['FID', 'Shape', 'CODI', 'TIPUS_ELEM', 'CATEGORIA', 'NOM_ELEMEN', 'FONT_DADES', 'TIPUS_INTE', 'DOMINI_MEC', 'TEMPS_GEOL', 'TIPUS_ROCA', 'PROCES_GEO', 'DOMINI', 'UNITAT_REP', 'CONT_GEOL'], 'espais-interes-geologic-v2r0-elements-punts-20230621.shp': ['FID', 'Shape', 'CODI', 'TIPUS_ELEM', 'CATEGORIA', 'NOM_ELEMEN', 'FONT_DADES', 'TIPUS_INTE', 'DOMINI_MEC', 'TEMPS_GEOL', 'TIPUS_ROCA', 'PROCES_GEO', 'DOMINI', 'UNITAT_REP', 'CONT_GEOL'], 'espais-interes-geologic-v2r0-espais-20230621.shp': ['FID', 'Shape', 'CODI', 'TIPUS_ESPA', 'CATEGORIA', 'NOM_ESPAI', 'CODI_GEOZO', 'NOM_GEOZON', 'N_GEOTOPS', 'FITXA_RESU', 'FITXA_DESC', 'TIPUS_INTE', 'DOMINI_MEC', 'TEMPS_GEOL', 'TIPUS_ROCA', 'PROCES_GEO', 'DOMINI', 'UNITAT_REP', 'CONT_GEOL', 'ANY_DIAGN', 'INT_CIENT', 'INT_DIDACT', 'INT_TURIST', 'S_DEG_NAT', 'S_DEG_ANT', 'R_DEG_NAT', 'R_DEG_ANT', 'EV_EST_CON', 'IMPACT_ANT', 'AMENAC_ANT', 'IMPACT_NAT', 'AMENAC_NAT', 'FITXA_DIAG']} 
+-----------------------
+TIPUS_INTE -----------------
+- Llistat de valors: ['Estratigràfic', 'Sedimentològic', 'Geomorfològic', 'Paleontològic', 'Tectònic', 'Petrològic-geoquímic', 'Mineralògic-metal·logenètic', 'Hidrogeològic', 'Història de la geologia'] 
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[1] 
+- ['Estratigràfic/Geomorfològic']
+-Conteig Files afectades: 1
+-Valors no registrats: 1
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[23, 25, 29, 30, 31, 32, 33, 34, 36, 50, 53, 55, 136, 157, 161, 170, 263, 315, 317, 318, 327, 340, 341, 347, 349, 350, 351, 355, 362, 369, 377, 386, 393, 395, 400, 409] 
+- ['Estratigràfic/Tectònic', 'Estratigràfic/Sedimentològic', 'Sedimentològic/Tectònic', 'Història de la geologia/Tectònic', 'Geomorfològic/Tectònic', 'Paleontològic/Tectònic', 'Petrològic-geoquímic/Tectònic', 'Geomorfològic/Petrològic-geoquímic']
+-Conteig Files afectades: 36
+-Valors no registrats: 8
+
+
+DOMINI_MEC -----------------
+- Llistat de valors: ['Pirineu', 'Cadena Costera Catalana', 'Massís Montseny-Guilleries-Gavarres', "Zona d'enllaç", "Conca d'avantpaís de l'Ebre", 'Vulcanisme neogen i quaternari']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551]
+-Conteig Files afectades: 0
+-Valors no registrats: 0
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[5, 273, 274]
+-Conteig Files afectades: 0
+-Valors no registrats: 0
+
+
+TEMPS_GEOL -----------------
+- Llistat de valors: ['Fanerozoic', 'Cenozoic', 'Quaternari', 'Holocè', 'Plistocè', 'Neogen', 'Pliocè', 'Miocè', 'Paleogen', 'Oligocè', 'Eocè', 'Paleocè', 'Mesozoic', 'Cretaci', 'Cretaci Superior', 'Cretaci Inferior', 'Juràssic', 'Juràssic Superior', 'Juràssic Mitjà', 'Juràssic Inferior', 'Triàsic', 'Triàsic Superior', 'Triàsic Mitjà', 'Triasic Inferior', 'Paleozoic', 'Permià', 'Carbonífer', 'Devonià', 'Silurià', 'Cambroordovicià', 'Ordovicià', 'Cambrià', 'Precambrià', 'Proterozoic', 'Neoproterozoic']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 
+161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 
+335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 396, 397, 398, 400, 405, 407, 408, 410, 411, 412, 413, 414, 415, 417, 423, 424, 425, 426, 435, 436, 440, 442, 454, 457, 458, 459, 460, 467, 468, 473, 474, 498, 502, 528, 529, 534, 538, 541, 542]
+- ['Quaternari/Cenozoic/Mesozoic', 'Paleocè/Cretaci/Cambroordovicià', 'Cenozoic/Mesozoic/Paleozoic', 'Quaternari/Neogen', 'Quaternari/Triàsic', 'Triàsic/Devonià', 'Cretaci/Triàsic', 'Paleogen/Cretaci', 'Quaternari/Cretaci', 'Cretaci/Juràssic/Triàsic', 'Paleogen/Cretaci/Juràssic', 'Cretaci/Juràssic', 'Paleogen/Cretaci/Juràssic/Triàsic', 'Devonià/Silurià/Cambroordovicià', 'Triàsic/Permià/Carbonífer', 'Quaternari/Paleogen', 'Triàsic/Permià', 'Oligocè/Eocè', 'Paleozoic/Mesozoic/Cenozoic', 'Quaternari/Miocè/Eocè', 'Quaternari/Eocè', 'Paleozoic/Mesozoic/Paleogen']
+-Conteig Files afectades: 434
+-Valors no registrats: 22
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[2, 7, 9, 12, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 
+85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 120, 121, 123, 127, 128, 129, 130, 131, 132, 134, 139, 141, 142, 143, 144, 145, 147, 148, 152, 155, 156, 157, 158, 159, 160, 161, 162, 170, 183, 184, 185, 186, 187, 191, 193, 194, 195, 196, 197, 198, 199, 209, 210, 213, 214, 215, 218, 219, 221, 223, 225, 226, 227, 228, 229, 236, 237, 238, 244, 249, 250, 259, 260, 261, 262, 263, 264, 265, 266, 267, 270, 271, 272, 279, 280, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 308, 309, 310, 311, 312, 313, 314, 381, 382, 383, 386, 388, 390, 392, 393, 395, 396, 397, 400, 402, 403, 405, 410, 411, 413, 414, 416]
+- ['Triàsic/Paleozoic', 'Eocè/Paleozoic', 'Paleogen/Mesozoic/Paleozoic', 'Quaternari/Oligocè', 'Quaternari/Neògen', 'Permià/Carbonífer', 'Cambroordovicià/Devonià', 'Devonià/Silurià', 'Quaternari/Paleozoic', 'Quaternari/Devonià', 'Quaternari/Cambroordovicià', 'Mesozoic/Paleozoic', 'Paleocè/Cretaci Superior', 'Cretaci Superior/Juràssic', 'Paleocè/Cretaci', 'Quaternari/Cretaci', 'Neogen/Paleogen', 'Eocè/Triàsic', 'Quaternari/Mesozoic', 'Cenozoic/Mesozoic', 'Quaternari/Cenozoic/Mesozoic', 'Quaternari/Plistocè', 'Quaternari/Eocè', 'Paleogen/Cretaci/Permià', 'Quaternari/Eocè/Permià', 'Eocè/Permià/Ordovicià']
+-Conteig Files afectades: 198
+-Valors no registrats: 26
+
+
+TIPUS_ROCA -----------------
+- Llistat de valors: ['Roques ígnies intrusives', 'Roques ígnies extrusives', 'Roques metamòrfiques', 'Roques sedimentàries', 'Roques detrítiques', 'Roques sedimentàries carbonàtiques', 'Roques sedimentàries evaporítiques', 'Roques sedimentàries orgàniques', 'Roques sedimentàries mixtes (sense especificar)', 'Roques sedimentàries mixtes (DCEO):']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[0, 1, 2, 388, 389, 391, 392, 394, 396, 397, 398, 400, 404, 406, 407, 409, 410, 411, 412, 415, 416, 417, 420, 421, 422, 423, 424, 426, 429, 430, 434, 435, 438, 439, 440, 442, 443, 444, 445, 446, 447, 448, 449, 450, 456, 458, 460, 461, 462, 463, 464, 465, 466, 467, 468, 470, 471, 475, 477, 482, 483, 484, 487, 488, 489, 490, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 524, 525, 526, 527, 528, 530, 532, 533, 534, 535, 536, 537, 538, 539, 541, 542, 543, 544, 545, 546, 550, 551]
+- ['Roques sedimentàries carbonàtiques/Roques sedimentàries detrítiques', 'Roques sedimentàries mixtes (DE)', 'Roques sedimentàries detrítiques', 'Roques sedimentàries carbonàtiques/Roques sedimentàries detrítiques/Roques sedimentàries evaporítiques', 'Roques ígnies intrusives/Roques metamòrfiques', 'Roques sedimentàries mixtes (DC)', 'Roques sedimentàries mixtes (DCE)', 'Roques sedimentàries mixtes (DO)', 'Roques sedimentàries mixtes (DCO)', 'Roques metamòrfiques/Roques sedimentàries mixtes (sense especificar)']    
+-Conteig Files afectades: 116
+-Valors no registrats: 10
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[0, 1, 2, 3, 4, 5, 7, 8, 9, 11, 12, 24, 26, 27, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 51, 53, 55, 122, 123, 127, 137, 163, 173, 174, 175, 176, 192, 
+203, 204, 213, 214, 215, 217, 225, 227, 232, 234, 235, 239, 244, 251, 253, 254, 255, 257, 258, 315, 316, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 343, 344, 345, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 372, 373, 374, 375, 376, 377, 378, 379, 386, 391, 393, 394, 395, 400, 403, 405]
+- ['Roques metamòrfiques/Roques sedimentàries mixtes', 'Roques sedimentàries detrítiques', 'Roques ígnies intrusives/Roques metamòrfiques', 'Roques sedimentàries mixtes (CDO)', 'Roques sedimentàries mixtes (CD)', 'Roques sedimentàries mixtes (CO)', 'Roques sedimentàries carbonàtiques/Roques sedimentàries detrítiques', 'Roques metamòrfiques/Roques sedimentàries', 'Roques ígnies intrusives/Roques sedimentàries carbonàtiques/Roques sedimentàries detrítiques']
+-Conteig Files afectades: 131
+-Valors no registrats: 9
+
+
+PROCES_GEO -----------------
+- Llistat de valors: [' Formes i dipòsits associats a dinàmica \ncàrstica', 'Cova/Avenc/Galeria', 'Dolina', 'Cúpula càrstica', 'Poliè i hum', 'Rascler', 'Dipòsit de "terra rossa" ', 'Formes i dipòsits associats a dinàmica fluvial i fluvio-torrencial', 'Terrassa fluvial', 'Meandre', 'Barra fluvial', 'Plana al·luvial', 'Captura fluvial', 'Salt d’aigua', 'Gorg', 'Xaragall', 'Piping', 'Plana al·luvial', 'Con de dejecció', 'Ventall al·luvial', 'Zona aiguabarreig', 'Formes i dipòsits associats a dinàmica glacial', 'Circ glacial', 'Vall glacial', 'Llac origen glacial', 'Coll de transfluència glacial', 'Paviment glacial', 'Roca moltonada', 'Morrena/Arc morènic', 'Glacera rocallosa', 'Grèze litée', 'Superfície plana de rebliment glaciar', 'Cubeta de sobre-excavació', "Estria d'abrasió glacial", 'Bloc erràtic', 'Formes i dipòsits associats a dinàmica periglacial/paranival', 'Congesta permanent', 'Arc de morena de congesta', 'Empedrat periglacial', 'Cercles', 'Configuracions geomètriques en sòls', 'Lòbul de gelifluxió', 'Tor', 'Nínxol de nivació', "Àrea d'activitat criogènica", "Efecte d'allau de neu", 'Formes i dipòsits associats a dinàmica eòlica', 'Cubeta de deflació', 'Paviment desèrtic', 'Ventifacte', 'Alvèol (tafonis)', 'Pàtines', 'Duna/camp de dunes', 'Formes i dipòsits associats a dinàmica litoral', 'Zona trencament onades', "Plataforma d'abrasió marina (rasa/terrassa)", 'Cordó/barra litoral', 'Fletxa litoral', 'Solc entre cordons litorals', 'Maresma', 'Construcció biogènica', 'Plana deltaica', 'Línia costa històrica', 'Línia de front deltaic', 'Torbera litoral', 'Moviment de massa', 'Caiguda', 'Despreniment', 'Bolcada', 'Lliscament', 'Lliscament rotacional', 'Lliscament translacional', 'Expansió lateral', 'Flux', "Corrent d'arrossegalls", 'Colada de fang', 'Reptació (creep)', 'Solifluxió', 'Moviment complex', 'Esfondrament', 'Col·lapse', 'Subsidència', 'Upsidència', 'Formes singulars', 'Congost', 'Arc/pont natural', 'Pedra cavallera', 'Agulla', 'Modelat granític', 'Disjunció de boles', 'Marmita de gegant', 'Pilar coronat (xemeneies de les fades)', 'Balma', 'Bufador', 'Indicis de tectònica recent i salina', "Faceta triangular de l'escarpament de falla", 'Desplaçament de curs fluvial', 'Indicis/àrees de dipòsits quaternaris deformats', 'Diapir', 'Formes de vulcanisme', 'Cràter volcànic', 'Edifici volcànic', 'Túmul volcànic', 'Blister', 'Colada', 'Tossol', 'Estructures sedimentàries inorgàniques (paleocorrent.càrrega ...)', 'Estructura inorgànica fòssil (gotes de pluja. esquerda de dessecació...)', 'Dipòsit sedimentari continental (sense especificar)', 'Dipòsit fluvial', 'Dipòsit al·luvial', 'Paleosòl (crosta carbonatada. laterita…)', 'Paleocarst', 'Dipòsit lacustre i palustre', 'Dipòsit glaciar', 'Dipòsit eòlic', 'Dipòsit sedimentari de transició (sense especificar)', 'Dipòsit costaner o litoral (platja)', 'Dipòsit de maresma i albufera', 'Dipòsit lacustre hiper-salí i de sebhka', 'Dipòsit mareal i submareal', 'Dipòsit de badia o lagoon', 'Dipòsit deltaic (plana i front)', 'Dipòsit sedimentari marí (sense especificar)', 'Dipòsit deltaic (prodelta)', 'Dipòsit bio-construït (escull)', 'Dipòsit de plataforma', 'Dipòsit plataforma soma', 'Dipòsit plataforma profunda', 'Dipòsit talús continental', 'Olistó', 'Olistostroma', "Dipòsit d'evaporites marines", 
+'Dipòsit de turbidites', 'Dipòsit pelàgic', 'Sediments marins profunds', 'Jaciment fossilífer', 'Jaciment fossilífer ambient continental', 'Jaciment fossilífer ambient transició', 'Jaciment fossilífer ambient marí ', 'Icnofòssil', 'Contactes/relacions geomètriques', 'Discordança', 'Discordança progressiva', 'Diaclasa', 'Contacte mecànic', 'Falla 
+(sense especificar)', 'Falla normal', 'Falla inversa', 'Encavalcament', 'Falla de direcció', 'Falla de doble moviment', 'Farina de falla', 'Deformació dúctil', 'Deformació plàstica', 'Desenganxament', 'Plec (sense especificar)', 'Anticlinal/Antiforme', 'Sinclinal/Sinforme', 'Intrusió plutònica', 'Intrusió filoniana', 'Dipòsits volcànics', 'Metamorfisme contacte', 'Metamorfisme regional', 'Elements estructurals mesurables (esquistositat. foliació. estries de falla...)', 'Grans estructures tectòniques', 'Horst/graven', 'Finestra tectònica', "Front d'encavalcament", 'Hidrogeologia', 'Aqüífer', 'Zona de recàrrega', 'Engolidor', 'Zones de descàrrega', 'Llac alimentat per aigua subterrània', 'Maresma/aiguamoll alimentat aigua subterrània', 'Font (sense especificar)', 'Surgència', 'Brollador/Ullal', 'Ull/güell/resurgència', 'Font/deu submarina', 'Manifestacions hidrotermals (font hidrotermal)', 'Font picant/carbònica', 'Font ferruginosa', 'Font sulfurosa', 'Font salada', 'Dipòsits de tova calcària', 'Dipòsits de travertins', 'Esdeveniments geològics', 'Orogènia alpina', 'Distensió neògena', 'Vulcanisme neogen', 'Crisi messiniana', 'Context compressiu', 'Paleogen', 'Context extensiu Cretaci Inferior', 'Vulcanisme Triàsic', 'Context extensiu Triàsic', 'Metamorfisme tèrmic alpí', 'Orogènia herciniana', 'Vulcanisme Carbonífer-Permià', 'Plutonisme Carbonífer-Permià', 'Metamorfisme 
+contacte associat a plutonisme Carbonífer-Permià', 'Metamorfisme regional hercinià', 'Vulcanisme Ordovicià', 'Plutonisme Ordovicià', 'Vulcanisme Ediacarià', 'Extinció límit Cretaci-Terciari', 'Extinció Triàsic-Juràssic', 'Extinció Permià-Triàsic', 'Extinció Devonià superior', 'Extinció Ordovicià superior', 'Explosió de vida del Cambrià', 'Jaciments minerals', 'Alteracions hidrotermals', 'Fraccionament magmàtic', 'Processos hidrotermals', 'Processos redox', 'Processos supergènics o de meteorització', 'Jaciments associats al metamorfisme', 'Altres (especificar)']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 
+312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 391, 392, 394, 401, 402, 403, 404, 406, 408, 409, 410, 412, 416, 417, 418, 420, 422, 424, 425, 427, 429, 430, 431, 432, 433, 435, 437, 441, 442, 444, 449, 450, 452, 454, 455, 456, 457, 459, 460, 461, 462, 463, 464, 465, 466, 469, 472, 483, 484, 488, 489, 501, 504, 505, 506, 515, 516, 518, 519, 520, 521, 527, 528, 530, 532, 534, 536, 537, 539, 541, 551]
+- ['Anticlinal/Antiforme/Orogenia Alpina', 'Dipòsits volcànics/Formes de vulcanisme', 'Cràter volcànic/Edifici volcànic', 'Discordança progressiva/Orogènia alpina', 'Discordança/Congost', 'Dipòsit bio-construït (escull)/Dipòsit plataforma soma', 'Estructures sedimentàries inorgàniques (paleocorrent, càrrega ...)', 'Dipòsit fluvial/Estructures sedimentàries inorgàniques (paleocorrent, càrrega ...)', 'Dipòsit sedimentari continental (sense especificar)/Dipòsit sedimentari de transició (sense especificar)/Dipòsit sedimentari marí (sense especificar)', 'Dipòsit sedimentari marí (sense especificar)/Congost', 'Anticlinal', 'Dipòsit sedimentari continental (sense especificar)/Dipòsit sedimentari de transició (sense especificar)', "Dipòsit deltaic (prodelta)/Sinclinal/Front d'encavalcament", 'Dipòsit sedimentari marí (sense especificar)/Dipòsit sedimentari de transició (sense especificar)', 'Dipòsit deltaic (plana i front)/Estructures sedimentàries inorgàniques (paleocorrent, càrrega ...)', 'Dipòsit deltaic (plana i front)/Dipòsit mareal i submareal', 'Dipòsit al·luvial/Jaciment fossilífer ambient continental', 'Discordança/Dipòsit sedimentari marí (sense especificar)', 'Llac alimentat per aigua subterrània/Dipòsits de tova calcària', 'Xaragalls/Pilar coronat (xemeneies de les fades)', 'Moviment de massa/Xaragalls', "Encavalcament/Front d'encavalcament", 'Encavalcament/Bretxa de falla', "Anticlinal/Front d'encavalcament", 'Encavalcament/Orogènia alpina', 'Col·lapse/Dipòsit lacustre i palustre/Pilar coronat (xemeneies de les fades)', "Cubeta de sobre-excavació/Roca moltonada/Estria d'abrasió glacial/Dipòsit lacustre i palustre", 'Vall glacial/Orogènia herciniana', 'Formes i dipòsits associats a dinàmica càrstica', 'Dipòsit sedimentari continental (sense especificar)/Paleosòl', 'Dipòsit deltaic (prodelta)/Dipòsit costaner o litoral (platja)', 'Discordança/Vulcanisme Carbonífer-Permià', 'Dipòsit plataforma soma/Dipòsit sedimentari de transició (sense especificar)/Dipòsit fluvial', 'Orogènia alpina/Dipòsit sedimentari marí (sense especificar)', 'Cova/Surgència/Dipòsits de tova calcària', 'Anticlinal/Orogènia alpina', 'Extinció límit Cretaci-Terciari/Dipòsit lacustre i palustre', 'Anticlinal/Antiforme/Falla normal', 'Dipòsit plataforma', "Salt d'aigua", 'Font (sense especificar)/Marmita de gegant', 'Dipòsit deltaic (plana i front)/Dipòsit deltaic (prodelta)', 'Dipòsit al·luvial/Dipòsit deltaic (plana i front)', 'Dipòsit fluvial/Jaciment fossilífer ambient continental', 'Agulla/Diaclasa', 'Dipòsit al·luvial/Dipòsit lacustre i palustre', 'Icnofòssil/Jaciment fossilífer ambient continental', 'Font (sense especificar)/Dipòsits de tova calcària', 'Dipòsit deltaic (prodelta)/Dipòsit plataforma', 'Dipòsit talus continental', 'Gorg/Meandre/Terrassa fluvial']
+-Conteig Files afectades: 231
+-Valors no registrats: 51
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[5, 8, 10, 11, 16, 24, 51, 119, 127, 131, 132, 138, 141, 144, 145, 146, 149, 152, 153, 157, 158, 162, 163, 170, 173, 174, 175, 176, 180, 183, 200, 203, 212, 224, 225, 235, 259, 261, 267, 268, 270, 271, 278, 281, 284, 289, 290, 292, 293, 294, 301, 302, 306, 315, 318, 320, 321, 322, 323, 326, 327, 328, 347, 349, 350, 369, 377, 378, 382, 386, 392, 393, 395, 399, 400]
+- ['Cova/Avenc/Galeria/Font (sense especificar)', 'Intrusió filoniana/Jaciments minerals', 'Dipòsits de tova calcària/Font (sense especificar)', 'Estructures sedimentàries inorgàniques (paleocorrent, càrrega ...)/Dipòsit fluvial', 'Intrusió filoniana/Intrusió plutònica', 'Falla (sense especificar)/Plec (sense especificar)', 'Estructures sedimentàries inorgàniques (paleocorrent, càrrega ...)', 'Elements estructurals mesurables (esquistositat, foliació, estries de falla...)', 'Encavalcament/Orogènia herciniana', 'Diaclasa/Formes i dipòsits associats a dinàmica càrstica', 'Col·lapse/Dolina', 'Metamorfisme regional hercinià/Orogènia herciniana', 'Cubeta de sobre-excavació/Llac origen glacial', "Estria d'abrasió glacial/Formes i dipòsits associats a dinàmica glacial", 'Circ glacial/Llac origen glacial', 'Llac origen glacial/Morrena/Arc morènic', 'Sinclinal', 'Formes i dipòsits associats a dinàmica glacial/Orogènia alpina', 'Orogènia alpina/Orogènia herciniana', 'Llac origen glacial/Metamorfisme regional', 'Intrusió plutònica/Metamorfisme contacte', 'Formes i dipòsits associats a dinàmica càrstica', "Despreniment/Efecte d'allau de neu", 'Dipòsit lacustre i palustre/Jaciment fossilífer ambient continental', 'Dipòsit sedimentari de transició (sense especificar)/Jaciment fossilífer ambient transició', 'Encavalcament/Orogènia alpina', 'Jaciment fossilífer ambient marí', 'Dipòsit 
+sedimentari marí (sense especificar)/Dipòsit sedimentari continental (sense especificar)', 'Dipòsit costaner o litoral (platja)/Dipòsit fluvial', "Dolina/Plataforma d'abrasió marina (rasa/terrassa)", "Despreniment/Plataforma d'abrasió marina (rasa/terrassa)", 'Formes i dipòsits associats a dinàmica fluvial i fluvio-torrencial/Maresma', "Dipòsit de 'terra rossa'/Dolina", 'Dolina/Formes i dipòsits associats a dinàmica fluvial i fluvio-torrencial', 'Anticlinal', 'Ull/güell/ resorgència', 'Anticlinal/Antiforme/Colada', 'Deformació plàstica/Intrusió filoniana', 'Elements estructurals mesurables (esquistositat, foliació, estries de falla...)/Metamorfisme regional', 'Deformació dúctil/Intrusió 
+filoniana', 'Elements estructurals mesurables (esquistositat, foliació, estries de falla...)/Deformació plàstica', 'Deformació dúctil/Deformació plàstica', 'Elements estructurals mesurables (esquistositat, foliació, estries de falla...)/Deformació dúctil', 'Metamorfisme regional/Orogènia herciniana', "Salt d'aigua", 'Dipòsit fluvial/Dipòsit lacustre i palustre', 'Gorg/Surgència']
+-Conteig Files afectades: 75
+-Valors no registrats: 47
+
+
+DOMINI -----------------
+- Llistat de valors: ['Serralada Pirenaica i Conca Basc-Cantàbrica', 'Serralada Ibèrica i Cadena Costera Catalana', 'Conques cenozoiques', 'Canàries i el vulcanisme cenozoic 
+peninsular']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[]
+- []
+-Conteig Files afectades: 0
+-Valors no registrats: 0
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[] 
+- []
+-Conteig Files afectades: 0
+-Valors no registrats: 0
+
+
+UNITAT_REP -----------------
+- Llistat de valors: ['Estructures i formacions geològiques singulars del basament. unitats al·lòctones i cobertora \nmesocenozoica de les serralades alpines', ' Estructures 
+i formacions geològiques singulars de les conques cenozoiques continentals i \nmarines', 'Sistemes volcànics', 'Dipòsits. sòls edàfics i formes de modelat singulars representatius de l’acció del clima actual i del passat', 'Dipòsits i formes de modelat singulars d’origen fluvial. lacustre i eòlic', 'Dipòsits i formes de modelat costaners i litorals', 'Sistemes càrstics en carbonats i evaporites']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[2, 388, 389, 390, 391, 392, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 420, 421, 422, 423, 
+424, 425, 426, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 473, 474, 475, 476, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 545, 546, 547, 548, 549, 550, 551]
+- ['Estructures i formacions geològiques singulars del basament, unitats al·lòctones i cobertora mesocenozoica de les serralades alpines', 'Dipòsits, sòls edàfics i formes de modelat singulars representatius de l’acció del clima actual i del passat', 'Estructures i formacions geològiques singulars de les conques cenozoiques continentals i marines', 'Dipòsits i formes de modelat singulars d’origen fluvial, lacustre i eòlic']
+-Conteig Files afectades: 155
+-Valors no registrats: 4
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[0, 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 14, 15, 16, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 
+145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 242, 243, 244, 250, 256, 258, 263, 268, 276, 278, 281, 284, 285, 286, 304, 305, 306, 307, 315, 317, 318, 320, 321, 322, 323, 324, 325, 326, 327, 328, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 342, 343, 344, 345, 346, 347, 349, 350, 351, 354, 355, 356, 357, 358, 359, 360, 362, 363, 364, 365, 368, 369, 370, 371, 372, 373, 374, 375, 377, 378, 379, 380, 384, 385, 386, 387, 389, 390, 391, 393, 394, 395, 397, 398, 399, 400, 
+401, 402, 403, 404, 405, 406, 409, 411, 412, 415]
+- ['Estructures i formacions geològiques singulars del basament, unitats al·lòctones i cobertora mesocenozoica de les serralades alpines', 'Dipòsits, sòls edàfics i formes de modelat singulars representatius de l’acció del clima actual i del passat', 'Dipòsits i formes de modelat singulars d’origen fluvial, lacustre i eòlic', 'Estructures i formacions geològiques singulars de les conques cenozoiques continentals i marines']
+-Conteig Files afectades: 265
+-Valors no registrats: 4
+
+
+CONT_GEOL -----------------
+- Llistat de valors: ['Costes de la península Ibèrica', 'Sistemes càrstics en carbonats i evaporites de la península Ibèrica i les Balears', 'Fòssils i icnofòssils del Mesozoic continental de la península Ibèrica', 'Seccions estratigràfiques del límit Cretàcic-Paleogen', 'Conques sinorogèniques del sud dels Pirineus', 'Conques cenozoiques continentals i jaciments de vertebrats associats del Llevant espanyol', 'Episodis evaporítics messinians (crisi de salinitat mediterrània)', 'Jaciments de vertebrats del Pliocè i Plistocè espanyols', 'Vulcanisme neogen i quaternari de la península Ibèrica']
+
+>>> espais-interes-geologic-v2r0-elements-poligons-20230621.shp      <<<<
+[] 
+- []
+-Conteig Files afectades: 0
+-Valors no registrats: 0
+
+
+>>> espais-interes-geologic-v2r0-elements-punts-20230621.shp      <<<<
+[]
+- []
+-Conteig Files afectades: 0
+-Valors no registrats: 0
