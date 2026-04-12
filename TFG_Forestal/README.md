@@ -15,6 +15,8 @@ Unlike the individual analysis, that was performed using open source software su
 **PyforestScan** already has a github repo: https://github.com/iosefa/PyForestScan
 I applied this library into my case of study, using my own data and adapting the script to the dataset. 
 
+- **mainpyForestScan.py** is the main script where the raw data from the LIDAR scan is processed. The results are the graphs stored within this directory
+
 #### forestAria
 3DForest is a C++ developed interface that performs individual analysis to extract metrics from trees point cloud datasets.
 It also has its python version,[Forest_3d_app](https://github.com/lloydwindrim/forest_3d_app), and in this folder I've applied this processing to my project dataset. 

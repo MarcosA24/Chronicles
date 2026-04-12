@@ -1,7 +1,0 @@
-https://geoserveis.icgc.cat/icgc_geotecnia/wms/service?
-
-https://visors.icgc.cat/geotecnia/#10.66/41.5593/0.7229
-- veure en quin format et descarregues les dades i els atributs que tenen
-
-A la ide.cat pots trobar les metadades del wms i la bd: https://catalegs.ide.cat/geonetwork/srv/cat/catalog.search#/search?any=geotecnia
-

@@ -1,6 +1,5 @@
 ## EDIMA
 Edima is a project of image edition, "EDIition IMAges", where I build a PyQT6 interface that can edit images. 
-
 In this project I've wanted to build an interactive interface with python, as a way to apply the theory I learned over image edition into a usable project.
 
 ### GUI_Imagery 
